@@ -1,4 +1,12 @@
+# IDEs
+.vscode/
+.idea/
+*.iml
+
 # Compiled class file
+/bin/
+/obj/
+/out/
 *.class
 
 # Log file
@@ -22,3 +30,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Sistema / OS
+.DS_Store
+Thumbs.db
+.history        
